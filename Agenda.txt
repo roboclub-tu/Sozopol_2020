@@ -1,0 +1,18 @@
+Workshop: 
+
+1.Environment Setup:
+-> Install Python with Anaconda
+-> Download zip file with notebooks
+-> Open Jupyter and explore notebooks
+
+2. Python crashcourse
+
+3.Numpy
+-> datatypes
+-> example
+-> exercise
+
+4.Pandas
+-> datatypes
+-> example
+-> exercise
